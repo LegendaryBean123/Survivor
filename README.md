@@ -9,6 +9,10 @@ Game made using pygame. Survival game where you try to kill as many enemies as p
 - pip (Python package manager)
 
 ### Steps to Download and Install
+#### Recommended:
+Download the .exe file from the dist folder
+Then just click and play
+#### Alternet methods:
 
 1. **Clone or Download the Repository**
    ```bash
@@ -33,8 +37,7 @@ Game made using pygame. Survival game where you try to kill as many enemies as p
 - **Controls**: 
   - Use **arrow keys** or **WASD** to move your character
   - Use **mouse** to aim and click to shoot
-  - Press **ESC** to pause/exit the game
-- **Strategy**: Avoid enemy attacks while defeating as many enemies as possible to rack up points.
+- **Strategy**: Avoid enemy attacks while defeating as many enemies as possible to rack up points using the terrain to your advantage.
 - **Gameplay**: Your score increases with each enemy defeated. How long can you survive?
 
 ## Game Features
