@@ -10,8 +10,7 @@ Game made using pygame. Survival game where you try to kill as many enemies as p
 
 ### Steps to Download and Install
 #### Recommended:
-Download the .exe file from the dist folder
-Then just click and play
+Download the .exe file from the dist folder. Then just click and play. You may have to tell your system to trust the file as it isn't very commonly download.
 #### Alternet methods:
 
 1. **Clone or Download the Repository**
