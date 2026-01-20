@@ -6,7 +6,6 @@ Game made using pygame. Survival game where you try to kill as many enemies as p
 
 ### Prerequisites
 - Python 3.7 or higher
-- pip (Python package manager)
 
 ### Steps to Download and Install
 #### Recommended:
